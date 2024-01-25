@@ -1,0 +1,22 @@
+{
+  "name": "crayones",
+  "version": "1.0.0",
+  "description": "Find the best price of color penciles faber castel super soft in guatemala",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "testdeb": "npx playwright test --debug"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "playwrite"
+  ],
+  "author": "Leslie-L",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.6",
+    "playwright": "^1.41.1"
+  }
+}
